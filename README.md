@@ -12,7 +12,8 @@ works with:
 - GPT-3.5 (surely)
 - GPT-4(o)
 - Gemini
-- Character.AI (Yet untested)
+- Character.AI (Needs Further tweaking to get to work properly)
+
 
 
 
