@@ -11,5 +11,5 @@ yeah, it's a prompt, nothing special.
 works with:
 - GPT-3.5 (surely)
 - GPT-4(o)
--Gemini
+- Gemini
 - Character.AI (Yet untested)
